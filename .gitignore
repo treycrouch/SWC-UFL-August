@@ -1,0 +1,13 @@
+moon 
+*~
+*#
+.Rhistory
+.Rproj.user 
+*swp
+*.pdf
+*.jpg
+*.docx
+!manual.pdf
+
+# comments
+
