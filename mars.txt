@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 cold and dry. the two moons may be a prolem for wolfman
 
 One last addition to mars.
@@ -6,6 +6,3 @@ One last addition to mars.
 yet another test, but to compare the wet mummies.
 
 trying iploading the mummies together? with git add 
-=======
-cold and dri,cxcvvs;dzd . 
->>>>>>> parent of c7934cd... testing commit -m, and of course we needed to add some stuff about wolfman
